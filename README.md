@@ -1,4 +1,4 @@
-# Cifar
+# Cifar10 Dataset
 
 In this project,we handled CİFAR 10 dataset.
 There are lots of examples about image classification and we say that keras is a good tool to use.
