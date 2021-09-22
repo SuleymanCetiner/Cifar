@@ -13,5 +13,10 @@ There are 50000 labels so we can train this model with a large number of layers.
 We recently used Dropout to increase accuracy and we tried to decrease loss for this training.
 We noticed that this accuracy is not high but we interrupt traning process in intention.
 
+NOTE !! 
+We does not declared class in our code explicitly so you can do that for you work.
+I get inspiration from https://www.tensorflow.org/tutorials/keras/classification for this work.
+
+We might do advanced jobs later ... 
 
 ![image](https://user-images.githubusercontent.com/38746955/134435022-81bf99f4-2366-4f84-a224-a41dab4818af.png)
