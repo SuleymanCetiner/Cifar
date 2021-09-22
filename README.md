@@ -7,3 +7,5 @@ We used colorful images so we highlight that dimension is (32,32,3) which has RG
 
 Tensorflow has lots of datasets to handle but i think this can be used for me.
 Selecting that dataset is important because you should be familiar with it.
+![image](https://user-images.githubusercontent.com/38746955/134434784-78a221d0-feca-4518-8dcb-9267267136c2.png)
+
